@@ -3,8 +3,8 @@
 	$entry_point = 'http://www.streamingvideoprovider.com/';
   
 	// Enter your publisher API Key and API Code bellow
-	$api_key = '';
-	$api_code = '';
+	$api_key = 'apc-JwLuDIpMMFzD';
+	$api_code = 'apc-JMDoEKnMqxML';
 	
 	// REIMPLEMENT THE FUNCTIONS BELOW WITH A RELIABLE PERSISTENT STORAGE!!!
 	// Saving the token locally.
